@@ -5,7 +5,7 @@
  *)
 
 local
-   ../../../../extended-basis/basis.mlb
+   ../../../extended-basis/basis.mlb
    $(SML_LIB)/basis/mlton.mlb
 in
    ann
@@ -13,7 +13,7 @@ in
       "sequenceNonUnit warn"
       "warnUnused true"
    in
-      ../../../public/random-dev.sig
-      random-dev.sml
+      ../../public/random-dev.sig
+      random-dev.mlton.sml
    end
 end

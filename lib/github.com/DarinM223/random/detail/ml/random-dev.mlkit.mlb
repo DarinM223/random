@@ -5,14 +5,14 @@
  *)
 
 local
-   $(MLTON_LIB)/com/ssh/extended-basis/unstable/basis.mlb
+   ../../../extended-basis/basis.mlb
 in
    ann
       "forceUsed"
       "sequenceNonUnit warn"
       "warnUnused true"
    in
-      ../../../public/random-dev.sig
-      ../common/random-dev.sml (* XXX implement better seed/useed for MLKit *)
+      ../../public/random-dev.sig
+      random-dev.common.sml (* XXX implement better seed/useed for MLKit *)
    end
 end

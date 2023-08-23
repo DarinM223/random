@@ -25,7 +25,7 @@ in
          detail/ran0-gen.sml
          detail/ranqd1-gen.sml
 
-         detail/ml/mlton/random-dev.mlb
+         detail/ml/random-dev.mlb
       in
          public/export.sml
       end
