@@ -1,2 +1,8 @@
 .cm/
 lib/github.com/DarinM223/extended-basis/
+*.d
+*.o
+*.lnk
+*.eb
+*.eb1
+run

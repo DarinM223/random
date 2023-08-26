@@ -5,7 +5,7 @@
  *)
 
 local
-   ../../../extended-basis/basis.mlb
+   ../../../extended-basis/basis.mlkit.mlb
 in
    ann
       "forceUsed"

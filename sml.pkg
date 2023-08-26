@@ -1,5 +1,5 @@
 package github.com/DarinM223/random
 
 require {
-  github.com/DarinM223/extended-basis 0.0.4 #664ace4ec0acb7d3da84796277cf1ddede80b3d7
+  github.com/DarinM223/extended-basis 0.0.6 #67dd4b4ba97ce9d748dd2de27dd42b9985c48022
 }
